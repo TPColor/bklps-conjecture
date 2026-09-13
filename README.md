@@ -10,7 +10,7 @@ The conjecture asserts that if `G` is a finite simple `2`-connected graph of ord
 Additionally, our Lemma 7 establishes that this bound attains equality for all `n ≥ 10`. Our forthcoming paper (which we plan to publish to arxiv), invites the reader to determine all equality cases.
 
 Lily Zhang independently supplied the main lemmas to resolve the conjecture (pink@berkeley.edu).<br>
-Evan Li helped me prove lemmas such as Lemma 2 and Lemma 4 as well as providing programs to check small cases of `n` for Lemma 2 and Theorem 3 (Evl012@ucsd.edu).
+Evan Li helped me prove lemmas such as Lemma 2 and Lemma 4 as well as providing programs to check small cases of `n` for Lemma 2 and Theorem 3 (Evl012@ucsd.edu).<br>
 Much of this lean formalization was assisted with GPT-5.6 Luna.
 
 # Reproduce
