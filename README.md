@@ -1,6 +1,6 @@
 # bklps-conjecture
 
-In the following, we resolve Conjecture 5 of Bonamy–Knor–Lužar–Pinlou–Škrekovski's `On the difference between the Szeged and Wiener index`, officially linked in https://doi.org/10.1016/j.amc.2017.05.047.
+In what follows, we resolve Conjecture 5 of Bonamy–Knor–Lužar–Pinlou–Škrekovski's `On the difference between the Szeged and Wiener index`, officially linked in https://doi.org/10.1016/j.amc.2017.05.047.
 In case you don't have access to it, the arXiv preprint is found as https://arxiv.org/abs/1602.05184.
 
 The paper uses the notation `K_n^t` to refer to the complete graph `K_{n-1}` but with an extra vertex that's adjacent to `t` vertices of the `K_{n-1}` part. We determine the Szeged–Wiener gap `η(K_n^t)` of `K_n^t` in our Theorem 1.
