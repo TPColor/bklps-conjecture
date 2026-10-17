@@ -21,3 +21,15 @@ Install Lean 4.27.0 using your usual Lean installation method. From this directo
 lake build
 ```
 While it takes a while, the file indeed compiles with Lean 4.27.0. There are no `sorry`, `admit`, nor user-created axioms. However, it was difficult for us to avoid `native_decide` since we could not find an easy non-computational argument to resolve the `n = 10` case. We only used it to perform the order 10 check for the base case of our induction to prove Theorem 6. BKLPS themselves claimed in their paper that they performed this search computationally.
+
+# Remark
+
+Another proof appeared on September 8, 2026. Their GitHub formalization is found here: https://github.com/FDmd233/strengthened-szeged-wiener-conjecture
+
+We worked on this conjecture early August as a collaboration, and we eventually solved it (I forgot exactly when). We typed proof sketches to check for errors by putting them through ChatGPT. Their links are below. The most recent one was on August 30, 2026. The proofs are easily recoverable from these links, since most of the remaining steps are fairly trivial (like the `m=5` case for Lemma 4).
+
+https://chatgpt.com/s/t_6ad380016500819183cfbd4660a143f6
+https://chatgpt.com/s/t_6ad38131a45881918c4a83b5ee02bbef
+https://chatgpt.com/s/t_6ad389aa2be0819198c1ed564675e6dc
+https://chatgpt.com/s/t_6ad38585a1c881919f9c2e5564f9f4db
+https://chatgpt.com/s/t_6ad38dcb15a48191a6f3a435f1cad645
