@@ -24,9 +24,9 @@ While it takes a while, the file indeed compiles with Lean 4.27.0. There are no 
 
 # Remark
 
-Another proof appeared on September 8, 2026. Their GitHub formalization is found here: https://github.com/FDmd233/strengthened-szeged-wiener-conjecture
+Another proof appeared on September 8, 2026. Their GitHub manuscript is found here: https://github.com/FDmd233/strengthened-szeged-wiener-conjecture
 
-We worked on this conjecture early August as a collaboration, and we eventually solved it (I forgot exactly when). We typed proof sketches to check for errors by putting them through ChatGPT. Their links are below. The most recent one was on August 30, 2026. The proofs are easily recoverable from these links, since most of the remaining steps are fairly trivial (like the `m=5` case for Lemma 4).
+We worked on this conjecture early August as a collaboration, and we eventually solved it (I forgot exactly when). We typed proof sketches to check for errors by putting them through ChatGPT when we bought subscriptions. Their links are below. The most recent one was on August 30, 2026. The proofs are easily recoverable from these links, since most of the remaining steps are fairly trivial (like the `m=5` case for Lemma 4).
 
 https://chatgpt.com/s/t_6ad380016500819183cfbd4660a143f6
 https://chatgpt.com/s/t_6ad38131a45881918c4a83b5ee02bbef
